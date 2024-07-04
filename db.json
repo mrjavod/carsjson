@@ -27,22 +27,24 @@
 			}
 		]
 	},
-	"models": {
-		"1": {
-			"status": 1,
-			"message": "OK",
-			"result": [
-				{
-					"id": 1,
-					"name": "Cobolt"
-				},
-				{
-					"id": 2,
-					"name": "Gentra"
-				}
-			]
+	"models": [
+		{
+			"1": {
+				"status": 1,
+				"message": "OK",
+				"result": [
+					{
+						"id": 1,
+						"name": "Cobolt"
+					},
+					{
+						"id": 2,
+						"name": "Gentra"
+					}
+				]
+			}
 		}
-	},
+	],
 	"cars": [
 		{
 			"id": 1,
