@@ -1,0 +1,46 @@
+{
+	"banks": [
+		{
+			"id": 1,
+			"name": "Anorbank"
+		},
+		{
+			"id": 2,
+			"name": "Kapital bank"
+		}
+	],
+	"brands": [
+		{
+			"id": 1,
+			"name": "Chevrolet"
+		},
+		{
+			"id": 2,
+			"name": "Kia"
+		}
+	],
+	"models": [
+		{
+			"id": 1,
+			"name": "Cobolt"
+		},
+		{
+			"id": 2,
+			"name": "Gentra"
+		}
+	],
+	"cars": [
+		{
+			"id": 1,
+			"name": "Gentra",
+			"additional_charasterics": "Avtomat",
+			"price": 10000
+		},
+		{
+			"id": 1,
+			"name": "Gentra",
+			"additional_charasterics": "Mehanika",
+			"price": 9000
+		}
+	]
+}
