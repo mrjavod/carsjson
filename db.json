@@ -1,34 +1,48 @@
 {
-	"banks": [
-		{
-			"id": 1,
-			"name": "Anorbank"
-		},
-		{
-			"id": 2,
-			"name": "Kapital bank"
+	"banks": {
+		"status": 1,
+		"message": "OK",
+		"result": [
+			{
+				"id": 1,
+				"name": "Anorbank"
+			},
+			{
+				"id": 2,
+				"name": "Kapital bank"
+			}
+		]
+	},
+	"brands": {
+		"status": 1,
+		"message": "OK",
+		"result": [
+			{
+				"id": 1,
+				"name": "Chevrolet"
+			},
+			{
+				"id": 2,
+				"name": "Kia"
+			}
+		]
+	},
+	"models": {
+		"1": {
+			"status": 1,
+			"message": "OK",
+			"result": [
+				{
+					"id": 1,
+					"name": "Cobolt"
+				},
+				{
+					"id": 2,
+					"name": "Gentra"
+				}
+			]
 		}
-	],
-	"brands": [
-		{
-			"id": 1,
-			"name": "Chevrolet"
-		},
-		{
-			"id": 2,
-			"name": "Kia"
-		}
-	],
-	"models": [
-		{
-			"id": 1,
-			"name": "Cobolt"
-		},
-		{
-			"id": 2,
-			"name": "Gentra"
-		}
-	],
+	},
 	"cars": [
 		{
 			"id": 1,
